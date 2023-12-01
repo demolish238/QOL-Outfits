@@ -25,6 +25,7 @@ outfit "External Fuel Pod"
 	"cost" 10000
 	thumbnail "outfit/external fuel"
 	"mass" 5
+	"drag" 0.2
 	"outfit space" 0
 	"fuel capacity" 50
 	"hull" -100
@@ -156,6 +157,7 @@ outfit "Pillager Bolt-on Cockpit"
 	cost 970000
 	thumbnail "ship/heavy shuttle"
 	mass 125
+	"drag" 1.3
 	"outfit space" 80
 	"heat generation" 4
 	"hull" -700
