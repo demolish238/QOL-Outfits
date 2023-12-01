@@ -157,7 +157,7 @@ outfit "Pillager Bolt-on Cockpit"
 	cost 970000
 	thumbnail "ship/heavy shuttle"
 	mass 125
-	"drag" 1.3
+	"drag" 1.4
 	"outfit space" 80
 	"heat generation" 4
 	"hull" -700
