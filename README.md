@@ -14,6 +14,8 @@ No other plugins are needed with this and implementation into the grander game i
 
 Used Plugins:
 
+https://github.com/Amazinite/Shields-Up (Shields Up)
+
 https://github.com/Amazinite/Enigma-Corp (Enigma Corps)
 
 https://www.nexusmods.com/endlesssky/mods/1 (Space Conversion)
