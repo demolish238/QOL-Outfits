@@ -28,8 +28,8 @@ outfit "External Fuel Pod"
 	"drag" 0.2
 	"outfit space" 0
 	"fuel capacity" 50
-	"hull" -100
-	description "A small fuel pod that is placed outside of the hull, making it take up no outfit space! But come on, you’re placing a giant explosive barrel on the outside of your ship for your enemies to shoot at, expect your hull to be a little more fragile."
+	"fuel consumption" 0.01
+	description "A small fuel pod that is placed outside of the hull. Unfortunately hyperspace fuel tends to slowly leak into space from these modules. Attempts to combat this led to drastic increases in mass and cost and were deemed unmarketable."
 
 outfit "Living Space Removal"
 	category "Systems"
