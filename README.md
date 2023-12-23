@@ -12,6 +12,10 @@ This Plugin adds a new armoury outfit that allows you to equip powerful boarding
 
 No other plugins are needed with this and implementation into the grander game is minimal outside of outfitters, since most of these are mostly for player use rather than to make AI ships more interesting.
 
+Reccomended Plugins:
+
+https://github.com/demolish238/Mil-taj-Protectorate/tree/main (Mil'taj Protectorate) (My other plugin)
+
 Used Plugins:
 
 https://github.com/Amazinite/Shields-Up (Shields Up)
