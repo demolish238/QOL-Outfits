@@ -178,7 +178,7 @@ outfit "Terror Mech"
 	"capture attack" 28
 	"capture defense" 19
 	description "While this war machine is slightly too big to fit through most ship portholes, it is more than capable of making it's own holes in ships with it's drilling equipment and advanced anti-personnel weaponry.  It's heavy armor and internal air supply make most ship boarding countermeasures useless.  Unfortunatly it requires contstant maintenance to run without faults due to the experimental nature of some of it's components."
-	description "Originally designed by Lovelace as a new piece of advanced boarding tech for the Navy, it was quickly abandoned in the prototype stage as far too costly to produce and maintain for far too little benefit. This problem was less important to blood thirsty pirate warlords, who saw a massive intimidating mech-suit as worth all the costs involved.”
+	description "Originally designed by Lovelace as a new piece of advanced boarding tech for the Navy, it was quickly abandoned in the prototype stage as far too costly to produce and maintain for far too little benefit. This problem was less important to blood thirsty pirate warlords, who saw a massive intimidating mech-suit as worth all the costs involved."
 
 outfit "Nerve Gas"
 	"armory capacity" -1
@@ -188,6 +188,7 @@ outfit "Fragmentation Grenades"
 	"armory capacity" -1
 
 outfit "Type 0 Radiant Engines"
+	plural "Type 0 Radiant Engines"
 	category "Engines"
 	licenses
 		"Wanderer Outfits"
