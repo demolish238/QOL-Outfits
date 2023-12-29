@@ -126,7 +126,7 @@ outfit "Ship Weapon Rack"
 	cost 12000
 	mass 6
 	"required crew" 1
-	"outfit space" -11
+	"outfit space" -6
 	"armory capacity" 30
 	description "For the captains who need a bit more bite when boarding, this room on the ship allows you to use some of the stronger boarding weapons. Requires a crewmate specialised in the care of the many advanced weapons the armoury contains."
 
@@ -137,7 +137,7 @@ outfit "Ship Armory"
 	cost 60000
 	mass 22
 	"required crew" 5
-	"outfit space" -44
+	"outfit space" -22
 	"armory capacity" 130
 	description "For the captains who make their money by boarding, this section of the ship allows you to use more advanced and stronger boarding weapons.  Requires a team of crewmates specialised in the care of the many advanced weapons the armoury contains."
 
@@ -148,7 +148,7 @@ outfit "Ship Armory Deck"
 	cost 240000
 	mass 55
 	"required crew" 12
-	"outfit space" -110
+	"outfit space" -55
 	"armory capacity" 320
 	description "For the captains who make their money by boarding, this deck replacement allows vast amounts of weaponry to be stored on a ship.  Requires an entire department of crewmates specialised in the care of the many advanced weapons the armoury contains."
 
