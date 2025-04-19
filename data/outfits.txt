@@ -72,7 +72,7 @@ outfit "Marine Gear"
 	category "Hand to Hand"
 	licenses
 		"Navy"
-	cost 24000
+	cost 40000
 	thumbnail "additionals/outfit/gear_marine"
 	"capture attack" 1.8
 	"capture defense" 1.2
@@ -83,7 +83,7 @@ outfit "Ranger Gear"
 	category "Hand to Hand"
 	licenses
 		"Militia"
-	cost 24000
+	cost 40000
 	thumbnail "additionals/outfit/gear_ranger"
 	"capture attack" 1.5
 	"capture defense" 1.5
@@ -92,7 +92,7 @@ outfit "Ranger Gear"
 
 outfit "Trooper Gear"
 	category "Hand to Hand"
-	cost 24000
+	cost 40000
 	thumbnail "additionals/outfit/gear_trooper"
 	"capture attack" 0.9
 	"capture defense" 2.1
