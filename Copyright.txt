@@ -12,8 +12,8 @@ Files:
 Copyright: Phil Morle
 License: CC-BY-SA-4.0
 
-files:
- images/additionals/outfit/shipwright gear*.png
+Files:
+ images/outfit/shipwright gear*.png
 Copyright: Darcy Manoel
 License: CC-BY-SA-4.0
 Comment: Stats are a balanced conceptual combination of D. Manoel's stats from Fluff, and those of Hurleveur's Repair Team from Unfettered Innovations.
