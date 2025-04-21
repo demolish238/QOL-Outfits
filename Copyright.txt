@@ -7,7 +7,8 @@ Files: images
 Copyright: Rafael Ramawadh <rramawadh@ymail.com>
 License: CC-BY-SA-4.0
 
-Files: images/Outfits
+Files:
+ images/outfit
 Copyright: Phil Morle
 License: CC-BY-SA-4.0
 
